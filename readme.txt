@@ -20,3 +20,5 @@ Specifically Designed and Developed For PHL Website as per Organisation's Requir
 2. Click Upload and Choose File, then select the theme's ZIP file. Click Install Now.
 3. Click Activate to use your new theme right away.
 
+This is part of Learning
+
