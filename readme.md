@@ -1,1 +1,6 @@
-![Profile Pic](https://github.com/govindaghr/govindaghr.github.io/blob/main/screenshot.PNG.png?raw=true)
+This wordpress theme is 
+Specifically Designed and Developed For PHL Website as per Organisation's Requirement.
+
+This is part of Learning
+
+![Profile Pic](https://github.com/govindaghr/PHLS/blob/main/screenshot.PNG.png?raw=true)
